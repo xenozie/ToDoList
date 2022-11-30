@@ -2,7 +2,7 @@
 
 Hallgató: Rémai Balázs (UXD08O)
 
-Feladat rövid leirása: Egy egyszerü To-Do-List felület, ahol a különbözö mindennapi feladatainkat tudjuk rendezni.
+Feladat rövid leirása: Egy To-Do-List felület, ahol a különbözö mindennapi feladatainkat tudjuk rendezni.
 
 Függvények: addTask -> Feladat hozzáadás.
             deleteTask -> Feladat törlés.
