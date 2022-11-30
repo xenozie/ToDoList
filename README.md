@@ -8,3 +8,6 @@ Függvények: addTask -> Feladat hozzáadás.
             deleteTask -> Feladat törlés.
             openTaskfile -> Egy külön text fileban tároljuk a hozzáadott napi feladatokat, illetve ha nem létezik text file akkor is létrehoz egyet.
             
+Modul: import tkinter
+from tkinter import *
+            
